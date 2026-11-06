@@ -1,5 +1,7 @@
 # 🥦 NutriTrack – AI-Powered Diet Tracker
 
+> **Tech stack:** Python · Django · RAG chatbot · LLM meal-plan generation · JavaScript
+
 A full-stack health application featuring a **React frontend**, **Django REST Framework API**, and a **RAG (Retrieval-Augmented Generation) AI Nutrition Assistant** powered by GPT-4 + OpenAI Embeddings.
 
 ## 📸 Features
