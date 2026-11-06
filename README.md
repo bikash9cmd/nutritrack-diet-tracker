@@ -159,3 +159,7 @@ OPENAI_API_KEY=sk-your-openai-key
 - [ ] Meal plan generator (multi-turn agent)
 - [ ] Export to CSV/PDF
 - [ ] Streak tracking and gamification
+
+## License
+
+Released under the [MIT License](LICENSE).
